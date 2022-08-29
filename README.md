@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ykw1129</h1>
-<h3 align="center">A passionate frontend developer from Chia</h3>
+<h3 align="center">A passionate frontend developer from foshan/China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykw1129&label=Profile%20views&color=0e75b6&style=flat" alt="ykw1129" /> </p>
 
